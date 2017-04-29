@@ -1,0 +1,17 @@
+{
+  "name": "moveFiles",
+  "version": "1.0.0",
+  "description": "reads files, appends some information and returns results",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Abhishek Jindal",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.3.0",
+    "fs": "0.0.1-security",
+    "jsonfile-updater": "^2.1.0"
+  }
+}
